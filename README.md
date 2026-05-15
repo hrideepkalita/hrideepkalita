@@ -1,3 +1,23 @@
+# 👋 Hi, I'm Hrideep
+
+🚀 Exploring the world of **Artificial Intelligence, Data Science, and Full-Stack Development**  
+🎓 BS in Data Science & Artificial Intelligence at **Indian Institute of Technology Guwahati**  
+💡 Passionate about building real-world digital solutions and modern web experiences  
+🌱 Continuously learning, building, and experimenting with new technologies  
+
+---
+
+## 🧠 Interests
+
+- Artificial Intelligence  
+- Data Science  
+- Full-Stack Development  
+- UI/UX Design  
+- Scalable Web Applications  
+- Innovation & Startups  
+
+---
+
 # 💫 About Me:
  Building the Future with AI, Data & Digital Innovation | BS in AI & Data Science (IIT Guwahati) + BCA | Founder @ LUITX | Web Development • Automation • Tech Solutions 🌍
 
